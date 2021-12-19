@@ -1,0 +1,24 @@
+{
+  "name": "nodeapidoc",
+  "version": "1.0.0",
+  "description": "Creates a simple yet a usefull api documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddrohit/NodeApiDoc.git"
+  },
+  "keywords": [
+    "ApiDocumentation",
+    "api",
+    "documentation"
+  ],
+  "author": "Rohit Dasamantharao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddrohit/NodeApiDoc/issues"
+  },
+  "homepage": "https://github.com/ddrohit/NodeApiDoc#readme"
+}
